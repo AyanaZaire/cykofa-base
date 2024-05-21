@@ -1,0 +1,36 @@
+{
+    "tags": [
+        {
+            "id": 1,
+            "title": "Clearing"
+        },
+        {
+            "id": 2,
+            "title": "Cotton"
+        }
+    ],
+    "seeds": [
+        {
+            "id": 1,
+            "tag": "Cotton",
+            "title": "I is for Indigo",
+            "content": "I is for indigo (Indigofera tinctoria). Indigo is a member of the pea family (Leguminosae), also native to the tropical area of China. Its exquisite blue color, used for dyeing, comes from its leaves and new stems, which when fermented produce a substance known as indican, which then is transformed into the dye known as indigotin, hence, indigo. It was introduced into the New World, as it was called, because of the European conquest of the Western Hemisphere, as a cash crop like sugar and cotton, eventually becoming an important part of the economy of France. In its time, indigo, which was grown in Haiti, produced more wealth for France than the entire East India Company did for England, and the Haitian Revolution, which freed the enslaved Africans, was so catastrophic to France's economy that it led Napoleon Bonaparte to sell Louisiana to President Thomas Jefferson.",
+            "source": "An Encyclopedia of Gardening for Colored Children",
+            "link": "",
+            "image": "",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Jamaica Kincaid",
+                    "birth": 1949,
+                    "death": ""
+                },
+                {
+                    "name": "Kara Walker",
+                    "birth": 1969,
+                    "death": ""
+                }
+            ]
+        }
+    ]
+}
