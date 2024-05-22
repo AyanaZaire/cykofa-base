@@ -6,28 +6,98 @@
         },
         {
             "id": 2,
-            "title": "Cotton"
+            "title": "Nowhere"
+        },
+        {
+            "id": 3,
+            "title": "Network"
+        },
+        {
+            "id": 4,
+            "title": "Data"
+        },
+        {
+            "id": 5,
+            "title": "Home"
+        }
+    ],
+    "authors": [
+        {
+            "id": 1,
+            "name": "Jamaica Kincaid",
+            "birth": 1949,
+            "death": ""
+        },
+        {
+            "id": 2,
+            "name": "Kara Walker",
+            "birth": 1969,
+            "death": ""
+        },
+        {
+            "id": 2,
+            "name": "Kara Walker",
+            "birth": 1969,
+            "death": ""
         }
     ],
     "seeds": [
         {
             "id": 1,
-            "tag": "Cotton",
+            "tag": { "id": 1, "title": "Cotton"},
             "title": "I is for Indigo",
             "content": "I is for indigo (Indigofera tinctoria). Indigo is a member of the pea family (Leguminosae), also native to the tropical area of China. Its exquisite blue color, used for dyeing, comes from its leaves and new stems, which when fermented produce a substance known as indican, which then is transformed into the dye known as indigotin, hence, indigo. It was introduced into the New World, as it was called, because of the European conquest of the Western Hemisphere, as a cash crop like sugar and cotton, eventually becoming an important part of the economy of France. In its time, indigo, which was grown in Haiti, produced more wealth for France than the entire East India Company did for England, and the Haitian Revolution, which freed the enslaved Africans, was so catastrophic to France's economy that it led Napoleon Bonaparte to sell Louisiana to President Thomas Jefferson.",
             "source": "An Encyclopedia of Gardening for Colored Children",
-            "link": "",
+            "link": "https://rep.club/products/encyclopedia-gardening",
             "image": "",
             "year": 2024,
             "authors": [
                 {
+                    "id": 1,
                     "name": "Jamaica Kincaid",
                     "birth": 1949,
                     "death": ""
                 },
                 {
+                    "id": 2,
                     "name": "Kara Walker",
                     "birth": 1969,
+                    "death": ""
+                },
+                {
+                    "id": 3,
+                    "name": "Sharifa Rhodes-Pitts",
+                    "birth": "",
+                    "death": ""
+                },
+                {
+                    "id": 4,
+                    "name": "Other",
+                    "birth": "",
+                    "death": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "tag": [{"id": 2, "title": "Nowhere"}, {"id": 3, "title": "Network"}, {"id": 4, "title": "Data"}, {"id": 5, "title": "Home"}],
+            "title": "Harlem You Rule.",
+            "content": "A cell phone company that must have hired an culturally sensitive advertising firm promoted itself with the following corny ode: Harlem You Rule. How do you stay so fly? From the old heads in the fedoras to the shorties rocking uptowns, Harlem, you never disappoint. Culturally no one has given us as much as you have. From music, to art, to dance, to literature, you're a renaissance community. You've changed the world. We've followed your lead by offering cell phone plans without annual contracts. Just use one of our plans with unlimited 7 pm nights and weekends to get at us. Like everyone else, we just want to be in the place to be.",
+            "source": "Harlem Is Nowhere: A Journey to the Mecca of Black America",
+            "link": "https://www.hachettebookgroup.com/titles/sharifa-rhodes-pitts/harlem-is-nowhere/9780316040334/?lens=little-brown",
+            "image": "",
+            "year": 2011,
+            "authors": [
+                {
+                    "id": 3,
+                    "name": "Sharifa Rhodes-Pitts",
+                    "birth": "",
+                    "death": ""
+                },
+                {
+                    "id": 4,
+                    "name": "Other",
+                    "birth": "",
                     "death": ""
                 }
             ]
