@@ -104,7 +104,7 @@
             "id": 3,
             "tags": [{"id": 4, "title": "Cattle"}, {"id": 3, "title": "Clay"}],
             "title": "Speaking from Jupiter",
-            "content": "Now, first thing: I brought an elephant with me this morning. I did this not only because you favoured them; I am now old enough for books and music and wet-looking sky to be pleasing to me, and I want this day to be remembered so that someone who isn't me will be able to come back here and keep the conversation going. And the lilies. Even lilies are pleasing to me now because, weekly, I have spent long days here at your headstone with the lilies, observing the world without you in it. There is a weight and thickness to things that slows me now. ",
+            "content": "Now, first thing: I brought an elephant with me this morning. I did this not only because you favoured them; I am now old enough for books and music and wet-looking sky to be pleasing to me, and I want this day to be remembered so that someone who isn't me will be able to come back here and keep the conversation going. And the lilies. Even lilies are pleasing to me now because, weekly, I have spent long days here at your headstone with the lilies, observing the world without you in it. There is a weight and thickness to things that slows me now.",
             "source": "Code Noir",
             "page": "50",
             "link": "https://www.penguinrandomhouse.ca/books/669724/code-noir-by-canisia-lubrin/9780735282216",
@@ -113,8 +113,8 @@
             "authors": [
                 {
                     "id": 5,
-                    "name": "Sharifa Rhodes-Pitts",
-                    "birth": "",
+                    "name": "Canisia Lubrin",
+                    "birth": 1984,
                     "death": ""
                 }
             ]
