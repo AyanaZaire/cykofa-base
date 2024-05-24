@@ -2,23 +2,19 @@
     "tags": [
         {
             "id": 1,
-            "title": "Clearing"
+            "title": "Cotton"
         },
         {
             "id": 2,
-            "title": "Nowhere"
+            "title": "Code"
         },
         {
             "id": 3,
-            "title": "Network"
+            "title": "Clay"
         },
         {
             "id": 4,
-            "title": "Data"
-        },
-        {
-            "id": 5,
-            "title": "Home"
+            "title": "Cattle"
         }
     ],
     "authors": [
@@ -35,19 +31,32 @@
             "death": ""
         },
         {
-            "id": 2,
-            "name": "Kara Walker",
-            "birth": 1969,
+            "id": 3,
+            "name": "Sharifa Rhodes-Pitts",
+            "birth": "",
+            "death": ""
+        },
+        {
+            "id": 4,
+            "name": "Other",
+            "birth": "",
+            "death": ""
+        },
+        {
+            "id": 5,
+            "name": "Canisia Lubrin",
+            "birth": 1984,
             "death": ""
         }
     ],
     "seeds": [
         {
             "id": 1,
-            "tag": { "id": 1, "title": "Cotton"},
+            "tags": { "id": 1, "title": "Cotton"},
             "title": "I is for Indigo",
             "content": "I is for indigo (Indigofera tinctoria). Indigo is a member of the pea family (Leguminosae), also native to the tropical area of China. Its exquisite blue color, used for dyeing, comes from its leaves and new stems, which when fermented produce a substance known as indican, which then is transformed into the dye known as indigotin, hence, indigo. It was introduced into the New World, as it was called, because of the European conquest of the Western Hemisphere, as a cash crop like sugar and cotton, eventually becoming an important part of the economy of France. In its time, indigo, which was grown in Haiti, produced more wealth for France than the entire East India Company did for England, and the Haitian Revolution, which freed the enslaved Africans, was so catastrophic to France's economy that it led Napoleon Bonaparte to sell Louisiana to President Thomas Jefferson.",
             "source": "An Encyclopedia of Gardening for Colored Children",
+            "page": "25",
             "link": "https://rep.club/products/encyclopedia-gardening",
             "image": "",
             "year": 2024,
@@ -63,7 +72,20 @@
                     "name": "Kara Walker",
                     "birth": 1969,
                     "death": ""
-                },
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "tags": [{"id": 2, "title": "Code"}, {"id": 3, "title": "Clay"}],
+            "title": "Harlem You Rule.",
+            "content": "A cell phone company that must have hired a culturally sensitive advertising firm promoted itself with the following corny ode: Harlem You Rule. How do you stay so fly? From the old heads in the fedoras to the shorties rocking uptowns, Harlem, you never disappoint. Culturally no one has given us as much as you have. From music, to art, to dance, to literature, you're a renaissance community. You've changed the world. We've followed your lead by offering cell phone plans without annual contracts. Just use one of our plans with unlimited 7 pm nights and weekends to get at us. Like everyone else, we just want to be in the place to be.",
+            "source": "Harlem Is Nowhere: A Journey to the Mecca of Black America",
+            "page": "144-145",
+            "link": "https://www.hachettebookgroup.com/titles/sharifa-rhodes-pitts/harlem-is-nowhere/9780316040334/?lens=little-brown",
+            "image": "",
+            "year": 2011,
+            "authors": [
                 {
                     "id": 3,
                     "name": "Sharifa Rhodes-Pitts",
@@ -79,24 +101,19 @@
             ]
         },
         {
-            "id": 2,
-            "tag": [{"id": 2, "title": "Nowhere"}, {"id": 3, "title": "Network"}, {"id": 4, "title": "Data"}, {"id": 5, "title": "Home"}],
-            "title": "Harlem You Rule.",
-            "content": "A cell phone company that must have hired an culturally sensitive advertising firm promoted itself with the following corny ode: Harlem You Rule. How do you stay so fly? From the old heads in the fedoras to the shorties rocking uptowns, Harlem, you never disappoint. Culturally no one has given us as much as you have. From music, to art, to dance, to literature, you're a renaissance community. You've changed the world. We've followed your lead by offering cell phone plans without annual contracts. Just use one of our plans with unlimited 7 pm nights and weekends to get at us. Like everyone else, we just want to be in the place to be.",
-            "source": "Harlem Is Nowhere: A Journey to the Mecca of Black America",
-            "link": "https://www.hachettebookgroup.com/titles/sharifa-rhodes-pitts/harlem-is-nowhere/9780316040334/?lens=little-brown",
+            "id": 3,
+            "tags": [{"id": 4, "title": "Cattle"}, {"id": 3, "title": "Clay"}],
+            "title": "Speaking from Jupiter",
+            "content": "Now, first thing: I brought an elephant with me this morning. I did this not only because you favoured them; I am now old enough for books and music and wet-looking sky to be pleasing to me, and I want this day to be remembered so that someone who isn't me will be able to come back here and keep the conversation going. And the lilies. Even lilies are pleasing to me now because, weekly, I have spent long days here at your headstone with the lilies, observing the world without you in it. There is a weight and thickness to things that slows me now. ",
+            "source": "Code Noir",
+            "page": "50",
+            "link": "https://www.penguinrandomhouse.ca/books/669724/code-noir-by-canisia-lubrin/9780735282216",
             "image": "",
-            "year": 2011,
+            "year": 2024,
             "authors": [
                 {
-                    "id": 3,
+                    "id": 5,
                     "name": "Sharifa Rhodes-Pitts",
-                    "birth": "",
-                    "death": ""
-                },
-                {
-                    "id": 4,
-                    "name": "Other",
                     "birth": "",
                     "death": ""
                 }
